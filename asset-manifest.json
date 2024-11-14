@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0d11f052.css",
-    "main.js": "/static/js/main.daabf429.js",
-    "static/js/787.c23014d4.chunk.js": "/static/js/787.c23014d4.chunk.js",
+    "main.js": "/static/js/main.053e8874.js",
+    "static/js/787.2b4816e8.chunk.js": "/static/js/787.2b4816e8.chunk.js",
     "static/media/Pretendard-Thin.ttf": "/static/media/Pretendard-Thin.23965237737042c7c087.ttf",
     "static/media/Pretendard-Light.ttf": "/static/media/Pretendard-Light.be916151766e60d80835.ttf",
     "static/media/Pretendard-Regular.ttf": "/static/media/Pretendard-Regular.fbe5b096111efa3e3bc2.ttf",
@@ -11,14 +11,14 @@
     "static/media/Sunflower-Medium.ttf": "/static/media/Sunflower-Medium.e76a775371fbf8a35896.ttf",
     "static/media/charity.png": "/static/media/charity.40d0982f44474b04f784.png",
     "static/media/mainimage.jpg": "/static/media/mainimage.a2f3ca0adf238abd4ae6.jpg",
-    "static/media/logo.jpeg": "/static/media/logo.7f70bad83c7860970030.jpeg",
+    "static/media/logo.jpeg": "/static/media/logo.23248ce06c34f524520d.jpeg",
     "index.html": "/index.html",
     "main.0d11f052.css.map": "/static/css/main.0d11f052.css.map",
-    "main.daabf429.js.map": "/static/js/main.daabf429.js.map",
-    "787.c23014d4.chunk.js.map": "/static/js/787.c23014d4.chunk.js.map"
+    "main.053e8874.js.map": "/static/js/main.053e8874.js.map",
+    "787.2b4816e8.chunk.js.map": "/static/js/787.2b4816e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d11f052.css",
-    "static/js/main.daabf429.js"
+    "static/js/main.053e8874.js"
   ]
 }
